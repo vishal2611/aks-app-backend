@@ -1,0 +1,6 @@
+.vish
+vish
+__pycache__
+*.pyc
+.git
+.env
